@@ -11,4 +11,4 @@ insert into daiql_test (id, name) value (2, 'test2');
 update daiql_test set name = 'test2' where id = 1;
 
 ## Error sql
-god bless no bug !
+god bless no bug !;
